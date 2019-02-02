@@ -235,7 +235,7 @@ void filtrar_escolhido()
 {
 	textcolor(WHITE);
 
-	printf("Write the coordenate: ");
+	printf("Write the coordinate: ");
 	getline(cin, localizacao_c);
 	system("cls");
 
