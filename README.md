@@ -8,5 +8,5 @@ The notation to write the coordinate must be "XX XX", where XX is the number. If
 It is possible to make a mark on the field to remember where there are bombs. To do this write b after the coordinate. Example: "XX XX b".
 (The coordinate will be marked as red)
 
-This code was made em portuguese.
+This code was made in portuguese.
 
